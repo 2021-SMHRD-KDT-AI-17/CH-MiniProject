@@ -1,11 +1,11 @@
 
 # 📎 Java기반 빵빵이의 일상(팀명: _다섯명이조_)
 
-![PS23121400811](https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/157353916/921394b6-b045-437c-8160-447ae776932e)
-45_1280]
+![빵빵이의 일상 제목](https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/d001264e-9fd1-4ce5-8a7b-b01099abe423)
+
 
 ## 👀 서비스 소개
-비스 소개
+서비스 소개
 
 * 서비스명:  빵빵이의 일상 
 
@@ -82,7 +82,7 @@
 		4. 모든 일과가 끝남과 동시에 save에 해당하는 값이 1씩 증가하여 savepoint를 만듬
 		5. 모든 스탯이 DB서버 업데이트 되고 이후 해당 결과에 따른 멘트가 출력됨
 
-<table>
+<table align = "center">
   <tr>
     <td align="center"><strong>헌팅</strong></td>
     <td align="center"><strong>공부</strong></td>
@@ -99,13 +99,17 @@
   </tr>
   <tr>
     <td align="center">
-    <img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/a06b133e-3bbf-40cc-adc4-cb1443c3adc5" width="100" height="120"/>
-    <img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/d3de7e20-2039-42a2-899a-285572eab52f" width="100" height="120"/>
+    	<img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/1b321209-a18a-4d10-b876-f0b7b100c421" width="100" height="120"/>
+    	<img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/15de9d9b-ba3f-4004-b7e0-ae61e5b66829" width="100" height="120"/>
     </td>
-    <td align="center"><img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/27ca8272-4fb5-4563-9916-d740dfef008e" width="100" height="120"/></td>
-    <td align="center"><img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/0ed37943-3828-4c4a-b8ef-c1590d35f950" width="100" height="120"/></td>
-    <td align="center"><img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/e4e07fd5-8140-4173-b01b-9cf77cfc4e18" width="100" height="100"/></td>
-    <td align="center"><img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/cb02d926-1add-484e-843c-76d9ffd102bf" width="100" height="120"/></td>
+    <td align="center">
+	    <img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/0c4c79a4-2f5c-47f7-9869-da352496ec32" width="100" height="120"/>
+    </td>
+    <td align="center">
+	    <img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/1e29dafb-c66c-41be-96b6-ad698b2ce2a0" width="100" height="120"/>
+    </td>
+    <td align="center"><img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/99878418-1a4b-4fd4-84c5-83d5124fb716" width="100" height="100"/></td>
+    <td align="center"><img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/5d50b43d-7f50-4fbe-b0ae-e48f14554382" width="100" height="120"/></td>
   </tr>
 </table>
 
@@ -201,13 +205,13 @@
 
 ## ⚙ 서비스 흐름도
 
-![다이어그램](https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/157353916/0ee933d2-823c-4eed-9f21-22cf8d5f3362)
+![요구사항 정의](https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/552083ac-8a4e-4325-998d-d83c1417ef5e)
+
 
 <br>
 
 ## ⚙ 테이블 명세서
-
-
+![테이블명세서](https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/a6cba066-0b24-4563-b533-171a2a4ff119)
 
 
 ## 🖥 화면 구성
@@ -229,7 +233,7 @@
 ## 👨‍👩‍👦‍👦 팀원 역할
 <table>
   <tr>
-    <td align="center"><img src="https://item.kakaocdn.net/do/fd49574de6581aa2a91d82ff6adb6c0115b3f4e3c2033bfd702a321ec6eda72c" width="100" height="100"/></td>
+    <td align="center"><img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/3c58ca7e-08af-49f5-9268-5c85199ab32f" width="100" height="100"/></td>
     <td align="center"><img src="https://github.com/2021-SMHRD-KDT-AI-17/SH-test/assets/99461952/46c25f94-804c-4cbf-b0ca-66359dceb5b3" width="100" height="110"/></td>
     <td align="center"><img src="https://mblogthumb-phinf.pstatic.net/20160127_177/krazymouse_1453865104404DjQIi_PNG/%C4%AB%C4%AB%BF%C0%C7%C1%B7%BB%C1%EE_%B6%F3%C0%CC%BE%F0.png?type=w2" width="100" height="100"/></td>
     <td align="center"><img src="https://i.pinimg.com/236x/ed/bb/53/edbb53d4f6dd710431c1140551404af9.jpg" width="100" height="100"/></td>
@@ -261,7 +265,8 @@
 ## 🤾‍♂️ 트러블슈팅
   
 * 문제1<br>
- ![스크린샷 2024-01-31 085014](https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/157353916/03edba61-c6d0-4af2-b767-4ca6c9f46c7a)
+![문제1](https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/5ea2834e-ce34-4054-b3b2-214601130397)
+
 
 1.  협업 과정 중 깃허브 충돌로 문제가 생겨 pull 하지 않는 프로젝트를 확인하여 다시 git 허브에 연동하여 해결
 
@@ -269,6 +274,6 @@
  
 * 문제2<br>
  
-![스크린샷 2024-01-31 085022](https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/157353916/68055dff-ce69-4c31-bfa9-0edffa59d319)
+![문제 2](https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/de32b95b-7569-4ef9-b634-a6e39df41cf8)
 
 1. SAVE(캐릭터의 날짜 저장) 의 데이터는 정상적으로 입력이 되나 SAVE의 값이 28이상일 경우 END(엔딩 결과), COM(완료 날짜) 부분에 값이 들어오지 않음
