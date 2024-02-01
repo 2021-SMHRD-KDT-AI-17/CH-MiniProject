@@ -1,9 +1,11 @@
+
 # 📎 Java기반 빵빵이의 일상(팀명: _다섯명이조_)
 
 ![PS23121400811](https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/157353916/921394b6-b045-437c-8160-447ae776932e)
 45_1280]
 
 ## 👀 서비스 소개
+비스 소개
 
 * 서비스명:  빵빵이의 일상 
 
@@ -62,7 +64,6 @@
 	1. DB에 있는 데이터에서 NICK, SAVE, END의 값을 가져옴
 	2. 10개의 캐릭터만을 출
 
-<br>
 ---
 
 ### Play
@@ -106,8 +107,6 @@
     <td align="center"><img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/e4e07fd5-8140-4173-b01b-9cf77cfc4e18" width="100" height="100"/></td>
     <td align="center"><img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/cb02d926-1add-484e-843c-76d9ffd102bf" width="100" height="120"/></td>
   </tr>
-
-  
 </table>
 
 
@@ -117,16 +116,44 @@
 	1. 여행 / 운동 / 문화생활 / 스포츠 / 데이트 의 선택지가 있음
 	2. 선택 이후 관련 UI가 출력되어 플레이어에게 알려줌
 
+<table>
+  <tr>
+    <td align="center"><strong>여행</strong></td>
+    <td align="center"><strong>운동</strong></td>
+    <td align="center"><strong>문화생활</strong></td>
+    <td align="center"><strong>스포츠</strong></td>
+    <td align="center"><strong>데이트</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><b>stress 감소</b></td>
+    <td align="center"><b>hp 증가</b></td>
+    <td align="center"><b>stress 감소</b></td>
+    <td align="center"><b> hp 증가 </b></td>
+    <td align="center"><b>ch 증가</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+    <img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/a06b133e-3bbf-40cc-adc4-cb1443c3adc5" width="100" height="120"/>
+    <img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/d3de7e20-2039-42a2-899a-285572eab52f" width="100" height="120"/>
+    </td>
+    <td align="center"><img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/27ca8272-4fb5-4563-9916-d740dfef008e" width="100" height="120"/></td>
+    <td align="center"><img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/0ed37943-3828-4c4a-b8ef-c1590d35f950" width="100" height="120"/></td>
+    <td align="center"><img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/e4e07fd5-8140-4173-b01b-9cf77cfc4e18" width="100" height="100"/></td>
+    <td align="center"><img src="https://github.com/2021-SMHRD-KDT-AI-17/CH-MiniProject/assets/99461952/cb02d926-1add-484e-843c-76d9ffd102bf" width="100" height="120"/></td>
+  </tr>
+</table>
+
 3. 일주일
 	- **개요: 평일 5일과 주말 2일을 for문으로 반복하여 게임을 진행함**
 	1. save를 7로 나누어 게임을 종료하고 다시 시작하더라도 종료된 시점에서 시작함
-	2. 전체 과정이 종료 되면 현재 본인의 스탯을 확인하고 종료 여부를 선택함
+	2. 전체 과정이 종료 되면 현재 본인의 스탯을 확인하고 종료 여부를 선택
 
+ 
 4. 한달
 	-	**일주일을 for문을 이용해 4번 반복하여 게임을 진행함**
-	1. 전체 일정이 종료 되고 최종 발표를 진행하여 code 스탯에 따라 등수가 정해진다. 
-	2. 등수에 따라 스탯 추가가 가능함
-	3. 최종 스탯 확인 후 엔딩 UI 출력
+	4. 전체 일정이 종료 되고 최종 발표를 진행하여 code 스탯에 따라 등수가 정해진다. 
+	5. 등수에 따라 스탯 추가가 가능함
+	6. 최종 스탯 확인 후 엔딩 UI 출력
 
 ---
 	
@@ -203,7 +230,7 @@
 <table>
   <tr>
     <td align="center"><img src="https://item.kakaocdn.net/do/fd49574de6581aa2a91d82ff6adb6c0115b3f4e3c2033bfd702a321ec6eda72c" width="100" height="100"/></td>
-    <td align="center"><img src="https://mb.ntdtv.kr/assets/uploads/2019/01/Screen-Shot-2019-01-08-at-4.31.55-PM-e1546932545978.png" width="100" height="100"/></td>
+    <td align="center"><img src="https://github.com/2021-SMHRD-KDT-AI-17/SH-test/assets/99461952/46c25f94-804c-4cbf-b0ca-66359dceb5b3" width="100" height="110"/></td>
     <td align="center"><img src="https://mblogthumb-phinf.pstatic.net/20160127_177/krazymouse_1453865104404DjQIi_PNG/%C4%AB%C4%AB%BF%C0%C7%C1%B7%BB%C1%EE_%B6%F3%C0%CC%BE%F0.png?type=w2" width="100" height="100"/></td>
     <td align="center"><img src="https://i.pinimg.com/236x/ed/bb/53/edbb53d4f6dd710431c1140551404af9.jpg" width="100" height="100"/></td>
     <td align="center"><img src="https://pbs.twimg.com/media/B-n6uPYUUAAZSUx.png" width="100" height="100"/></td>
